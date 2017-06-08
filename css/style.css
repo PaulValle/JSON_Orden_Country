@@ -1,0 +1,19 @@
+.add {
+    border: none; /* Remove borders */
+    color: white; /* Add a text color */
+    padding: 14px 28px; /* Add some padding */
+    cursor: pointer; /* Add a pointer cursor on mouse-over */
+    background-color: #4CAF50;
+
+}
+.add:hover {background-color: #46a049;}
+
+h1{
+  color: aquamarine;
+  text-align: center;
+}
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
